@@ -13,11 +13,11 @@ From Deliverable 1 we can see the breakdown of employees who are retiring by pos
 * 4502 Technique Leader
 * 1761 Assistant Engineer
 * 2 Manager
-![This is an image](https://github.com/clarosjorge21/Pewlett-Hackard-Analysis/blob/41a674519c6b4533af3372d8ed9cb813731afe9e/resources/Results_one.PNG)
+* ![This is an image](https://github.com/clarosjorge21/Pewlett-Hackard-Analysis/blob/41a674519c6b4533af3372d8ed9cb813731afe9e/resources/Results_one.PNG)
 
 From Deliverable 2 we can see the total of employees who are mentorship eligible to mentor the next generation
 * 1,940 employees are eligible. 
-![This is an image](https://github.com/clarosjorge21/Pewlett-Hackard-Analysis/blob/41a674519c6b4533af3372d8ed9cb813731afe9e/resources/Results_two.PNG)
+* ![This is an image](https://github.com/clarosjorge21/Pewlett-Hackard-Analysis/blob/41a674519c6b4533af3372d8ed9cb813731afe9e/resources/Results_two.PNG)
 
 ### Summary 
 * 90,398 roles will need to be filled as the silver tsunami begins to make an impact.
